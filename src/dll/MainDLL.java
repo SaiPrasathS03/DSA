@@ -4,7 +4,6 @@ public class MainDLL {
 
 	public static void main(String[] args) {
 		DLL dll = new DLL();
-		
 		dll.insertLast(50);
 		dll.insertFirst(10);
 		dll.insertFirst(20);

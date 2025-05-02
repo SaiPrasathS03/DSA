@@ -17,6 +17,7 @@ public class LLMain {
 		size = ll.size;
 		System.out.println(size);
 		ll.delete(2);
+		ll.insertRec(11, 2);
 		ll.printList();
 //		ll.insertLast(170);
 //		ll.printList();
